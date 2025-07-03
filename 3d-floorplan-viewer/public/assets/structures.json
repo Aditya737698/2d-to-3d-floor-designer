@@ -1,0 +1,4 @@
+{
+  "doors": [ { "start": [x1, y1], "end": [x2, y2] }, ... ],
+  "windows": [ { "start": [x1, y1], "end": [x2, y2] }, ... ]
+}
