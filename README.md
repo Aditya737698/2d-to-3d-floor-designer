@@ -28,7 +28,7 @@ cd floor-plan-object-detection
 pip install -r requirements.txt  # Install dependencies
 
 # Run backend API
-uvicorn main:app --reload --port 8000
+uvicorn app:app --reload --port 8000
 ```
 ### 💻 3. Start the React Frontend
 ```bash
